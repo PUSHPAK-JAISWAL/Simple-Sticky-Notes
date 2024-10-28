@@ -1,0 +1,7 @@
+setup.py
+StickyNotes.egg-info/PKG-INFO
+StickyNotes.egg-info/SOURCES.txt
+StickyNotes.egg-info/dependency_links.txt
+StickyNotes.egg-info/entry_points.txt
+StickyNotes.egg-info/top_level.txt
+stickynotes/__init__.py
